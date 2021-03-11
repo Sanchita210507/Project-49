@@ -1,0 +1,13 @@
+h1{
+ color:black;
+text-align:center;
+}
+.header{
+background-color:violet;
+display:flex;
+justify-content:space-between;
+}
+img{
+border:solid;
+color:violet;
+}
